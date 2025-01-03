@@ -4,8 +4,7 @@
 <div align="center">
   <img width="800px" src="https://github.com/Ratenne/Ratenne/blob/main/title.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=Ratenne&show_icons=true&theme=radical" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" /> -->
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Ratenne" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratenne&layout=compact" /> -->
 </div>
 
 ## 
