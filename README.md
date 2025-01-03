@@ -2,7 +2,7 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
+  <img width="800px" src="https://github.com/Ratenne/Ratenne/blob/main/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" /> -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jnary" />
