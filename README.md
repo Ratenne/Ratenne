@@ -3,43 +3,60 @@
 <!--타이틀 부분-->
 <div align="center">
   <img width="800px" src="https://github.com/Ratenne/Ratenne/blob/main/title.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratenne&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratenne&layout=compact" /> -->
 </div>
 
 ## 
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+<p align="center">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/></a>&nbsp 
 
+
+      
+      
+  <br>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat-square&logo=Eclipse-IDE&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp 
+</p>
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
-
 <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp 
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  
+  <br>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />&nbsp
+  
+<br>
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F"/></a>&nbsp 
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/-Web%20Security-black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 </div>
+
 
 <br>
 
@@ -79,14 +96,14 @@
 
 ## 💜 Commit streaks
 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratenne&theme=onedark&border=00000000" alt="Github Streak" height="185" align="center"/>](https://git.io/streak-stats#gh-dark-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratenne&theme=solarized-light&border=00000000" alt="Github Streak" height="185" align="center"/>](https://git.io/streak-stats#gh-light-mode-only) [<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratenne&theme=onedark&utcOffset=9" alt="Commits time" height="185" align="center"/>](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only) [<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratenne&theme=solarized&utcOffset=9" alt="Commits time" height="185" align="center"/>](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratenne&theme=onedark&border=00000000" alt="Github Streak" height="185" align="center"/>](https://git.io/streak-stats#gh-dark-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratenne&theme=solarized-light&border=00000000" alt="Github Streak" height="185" align="center"/>](https://git.io/streak-stats#gh-light-mode-only) [<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratenne&theme=onedark&utcOffset=9" alt="Commits time" height="185" align="center"/>](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only) [<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratenne&theme=solarized&utcOffset=9" alt="Commits time" height="185" align="center"/>](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only) 
 
 ## ✨ TotalStats
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratenne&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ratenne&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ratenne&show_icons=true&theme=radical" width=56%/>
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ratenne&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
