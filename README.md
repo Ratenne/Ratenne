@@ -33,19 +33,14 @@
 <br>
 
 <br>
+<div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</div>
   
   <br>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />&nbsp
-  
-<br>
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F"/></a>&nbsp 
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -68,28 +63,22 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F"/>&nbsp 
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
 
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:o94777@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/o94777@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
@@ -97,6 +86,7 @@
 ## 💜 Commit streaks
 
 [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratenne&theme=onedark&border=00000000" alt="Github Streak" height="185" align="center"/>](https://git.io/streak-stats#gh-dark-mode-only) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratenne&theme=solarized-light&border=00000000" alt="Github Streak" height="185" align="center"/>](https://git.io/streak-stats#gh-light-mode-only) [<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratenne&theme=onedark&utcOffset=9" alt="Commits time" height="185" align="center"/>](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only) [<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ratenne&theme=solarized&utcOffset=9" alt="Commits time" height="185" align="center"/>](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only) 
+
 
 ## ✨ TotalStats
 <a href="https://github.com/anuraghazra/github-readme-stats">
