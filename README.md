@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratenne&layout=compact)
+
 <!--타이틀 부분-->
 
 
@@ -60,9 +60,6 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
-
-# Garden
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Ratenne)](https://github.com/marshallku/gitgarden)
 <div align="center">
   <a href="https://velog.io/@oka1313">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
@@ -72,3 +69,10 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratenne&layout=compact)
+
+# This Year
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Ratenne)](https://github.com/marshallku/gitgarden)
+# Last Year
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Ratenne&year=2024)](https://github.com/marshallku/gitgarden)
