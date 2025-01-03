@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-##
+
 <!--타이틀 부분-->
 <div align="center">
   <img width="800px" src="https://github.com/Ratenne/Ratenne/blob/main/title.gif" />
@@ -7,6 +7,8 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" /> -->
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jnary" />
 </div>
+
+## 
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
