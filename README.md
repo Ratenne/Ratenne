@@ -100,10 +100,3 @@
 </a>
 
 
-
-# This Year
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Ratenne)](https://github.com/marshallku/gitgarden)
-# Last Year
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Ratenne&year=2024)](https://github.com/marshallku/gitgarden)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
